@@ -55,8 +55,25 @@
   a:hover {
     color: #007bff;
   }
+ 
+  .image-left {
+    margin-bottom: 30px;
+    transition: transform 0.3s ease-in-out;
+  }
   
-
+ .image-left:hover {
+    transform: scale(1.05);
+  }
+  
+  /* Style pour les liens */
+  a {
+    transition: color 0.3s ease-in-out;
+  }
+  
+  a:hover {
+    color: #007bff;
+  }
+  
 
 
 
