@@ -1,4 +1,4 @@
-:root {
+ :root {
     --background-color: #efe7e5;
     --text-color: black;
 }
@@ -72,14 +72,4 @@
   
   a:hover {
     color: #007bff;
-  }
-  
-
-
-
-
-/* profil.html */
-
-
-
-  
+  };
